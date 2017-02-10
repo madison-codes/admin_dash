@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import mock from './helpers/mockdata';
+import mock from './helpers/.mockdata';
 import './styles/App.scss';
 
 import Navigation from './Nav';

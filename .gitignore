@@ -14,4 +14,4 @@ build
 .env
 npm-debug.log
 
-./src/helpers/mockdata.js
+.mockdata.js
